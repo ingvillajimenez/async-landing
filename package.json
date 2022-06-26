@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvillajimenez/async-landing.git"
+  },
+  "keywords": [],
+  "author": "Juan Villa <ing.villa.jimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingvillajimenez/async-landing/issues"
+  },
+  "homepage": "https://github.com/ingvillajimenez/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
